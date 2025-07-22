@@ -48,7 +48,7 @@ export const CognitoLogo = ({ width = "100%", height = 50 }) => (
       style={{
         fontSize: "14px",
         fontFamily: "Segoe UI, sans-serif",
-        fill: "#111827",
+        fill: "#3b3a41",
       }}
     >
       AI-Driven Software Engineering
